@@ -1,0 +1,15 @@
+.outerContainer{
+    float: left;
+    margin-top: -40px;
+    margin-left: 102px;
+}
+.outerContainer a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #555;
+}
+.outerContainer a div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

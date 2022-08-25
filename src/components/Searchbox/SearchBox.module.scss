@@ -1,0 +1,26 @@
+
+.outerContainer{
+    background-color: antiquewhite;
+    display: inline-block;
+    margin-right: -800px;
+    margin-top: 30px;
+    
+}
+
+.outerContainer input{
+    padding: 5px;
+    width: 250px;
+    border-radius: 0px 5px 5px 0px;
+    text-align: right;
+    font-weight: bold;
+    color: #555;
+    font-family: iranYekan;
+}
+.outerContainer button{
+    padding: 5px;
+    background-color: #ee384e;
+    border-radius: 5px 0px 0px 5px;
+    font-weight: bold;
+    color: #555;
+    font-family: iranYekan;
+}
